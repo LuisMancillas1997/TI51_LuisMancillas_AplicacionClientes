@@ -1,0 +1,15 @@
+c:\users\dell\documents\visual studio 2013\Projects\TI51_LAMR_AplicacionClientes\TI51_LAMR_AplicacionClientes\bin\Debug\TI51_LAMR_AplicacionClientes.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\TI51_LAMR_AplicacionClientes\TI51_LAMR_AplicacionClientes\obj\Debug\TI51_LAMR_AplicacionClientes.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\TI51_LAMR_AplicacionClientes\TI51_LAMR_AplicacionClientes\obj\Debug\TI51_LAMR_AplicacionClientes.Categorias.resources
+c:\users\dell\documents\visual studio 2013\Projects\TI51_LAMR_AplicacionClientes\TI51_LAMR_AplicacionClientes\obj\Debug\TI51_LAMR_AplicacionClientes.Clientes.resources
+c:\users\dell\documents\visual studio 2013\Projects\TI51_LAMR_AplicacionClientes\TI51_LAMR_AplicacionClientes\obj\Debug\TI51_LAMR_AplicacionClientes.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\TI51_LAMR_AplicacionClientes\TI51_LAMR_AplicacionClientes\obj\Debug\TI51_LAMR_AplicacionClientes.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\TI51_LAMR_AplicacionClientes\TI51_LAMR_AplicacionClientes\bin\Debug\TI51_LAMR_AplicacionClientes.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\TI51_LAMR_AplicacionClientes\TI51_LAMR_AplicacionClientes\bin\Debug\TI51_LAMR_AplicacionClientes.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\TI51_LAMR_AplicacionClientes\TI51_LAMR_AplicacionClientes\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\TI51_LAMR_AplicacionClientes\TI51_LAMR_AplicacionClientes\obj\Debug\TI51_LAMR_AplicacionClientes.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\TI51_LAMR_AplicacionClientes\TI51_LAMR_AplicacionClientes\obj\Debug\TI51_LAMR_AplicacionClientes.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\TI51_LAMR_AplicacionClientes\TI51_LAMR_AplicacionClientes\bin\Debug\TI51_LAMR_AplicacionClientes.exe.manifest
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\TI51_LAMR_AplicacionClientes\TI51_LAMR_AplicacionClientes\bin\Debug\TI51_LAMR_AplicacionClientes.application
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\TI51_LAMR_AplicacionClientes\TI51_LAMR_AplicacionClientes\obj\Debug\TI51_LAMR_AplicacionClientes.exe.manifest
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\TI51_LAMR_AplicacionClientes\TI51_LAMR_AplicacionClientes\obj\Debug\TI51_LAMR_AplicacionClientes.application
